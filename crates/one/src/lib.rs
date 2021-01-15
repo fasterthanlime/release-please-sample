@@ -7,5 +7,5 @@ mod tests {
 }
 
 pub fn greet() {
-    println!("hello from one!")
+    println!("hello from one! (now improved)")
 }
